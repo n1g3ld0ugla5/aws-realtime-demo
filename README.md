@@ -8,7 +8,7 @@ aws s3 mb s3://nigelseriousbucket
 
 List S3 buckets
 ```
-aws s3 list
+aws s3 ls
 ```
 Create a Text file
 ```
